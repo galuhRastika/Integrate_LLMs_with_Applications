@@ -1,23 +1,28 @@
-# Integrate-LLMs-with-applications
+<h1 align="center"> Integrate LLMs with Applications </h1>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/Anaconda-3670A0?style=for-the-badge&logo=anaconda&logoColor=white">
+
 </div>
-Dari prompt lab yang telah dicoba kita akan memanggil kode tersebut menggunakan api IBMcloud.
 
-## Requirements
-- Anaconda Environment
-- Python
-- Library pada requirements.txt yaitu:
-- load_dotenv==0.1.0
-- ibm_watson_machine_learning==1.0.345
-- ibm-cloud-sdk-core==3.16.7
-- streamlit==1.31.0
-- python-dotenv==1.0.0
-  walaupun pada file yang diberikan saya tidak menggunakan env saya langsung input api key dan project id ke kedua file py
+<h1 align="center"> Welcome to the Integrate-LLMs-with-applications project! </h1>
 
-## Instalasi
+This project demonstrates how to integrate **Large Language Models (LLMs)** into real-world applications, providing users with intelligent, natural language-driven functionalities that enhance user experience and business efficiency.
+
+## 🚀 Requirements
+1. **Anaconda Environment**  
+2. **Python**  
+3. Libraries listed in `requirements.txt`:
+   - `load_dotenv==0.1.0`
+   - `ibm_watson_machine_learning==1.0.345`
+   - `ibm-cloud-sdk-core==3.16.7`
+   - `streamlit==1.31.0`
+   - `python-dotenv==1.0.0`
+
+
+
+## 📌Instalasi
 Pastikan Anaconda sudah di instal dan sudah digantikan di VScode/IDE lain menggunakan ctrl+shift+p select interpreter, pilih yang anaconda
 1. Clone the repository:  
    ```bash
@@ -36,7 +41,7 @@ Pastikan Anaconda sudah di instal dan sudah digantikan di VScode/IDE lain menggu
    python ./demo_wml_api.py
    streamlit run demo_wml_api_with_streamlit.py
    
-## Contoh Hasil
+## 📝Contoh Hasil
    ```bash
    python demo_wml_api.py
 ---------------------------------------------------------------------------
