@@ -3,10 +3,13 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/Anaconda-3670A0?style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/IBM%20Cloud-005C8E?style=for-the-badge&logo=ibmcloud&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B5C?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/License-MIT-yellowgreen?style=for-the-badge&logo=opensource&logoColor=white">
 
 </div>
 
-<h1 align="center"> Welcome to the Integrate-LLMs-with-applications project! </h1>
+<h1 align="center"> Welcome to the Integrate LLMs with Applications project!🤖💡 </h1>
 
 This project demonstrates how to integrate **Large Language Models (LLMs)** into real-world applications, providing users with intelligent, natural language-driven functionalities that enhance user experience and business efficiency.
 
@@ -22,7 +25,7 @@ This project demonstrates how to integrate **Large Language Models (LLMs)** into
 
 
 
-## 📌Instalasi
+## 🛠️Instalasi
 Pastikan Anaconda sudah di instal dan sudah digantikan di VScode/IDE lain menggunakan ctrl+shift+p select interpreter, pilih yang anaconda
 1. Clone the repository:  
    ```bash
