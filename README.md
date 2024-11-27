@@ -29,7 +29,7 @@ This project demonstrates how to integrate **Large Language Models (LLMs)** into
 Pastikan Anaconda sudah di instal dan sudah digantikan di VScode/IDE lain menggunakan ctrl+shift+p select interpreter, pilih yang anaconda
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/roland86-op/Integrate-LLMs-with-applications.git
+   git clone https://github.com/galuhRastika/Integrate_LLMs_with_Applications.git
 2. Change Directory:
    ```bash
    cd your-repo
